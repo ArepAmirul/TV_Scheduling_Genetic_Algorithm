@@ -1,0 +1,19 @@
+Time Slot,Program,Rating
+06:00,Boxing,0.4
+07:00,reality_show,0.4
+08:00,news,0.6
+09:00,reality_show,0.4
+10:00,news,0.5
+11:00,reality_show,0.5
+12:00,tv_series_b,0.3
+13:00,music_program,0.4
+14:00,reality_show,0.5
+15:00,reality_show,0.6
+16:00,movie_a,0.5
+17:00,news,0.5
+18:00,news,0.5
+19:00,live_soccer,0.6
+20:00,live_soccer,0.8
+21:00,movie_a,0.7
+22:00,music_program,0.5
+23:00,Boxing,0.8

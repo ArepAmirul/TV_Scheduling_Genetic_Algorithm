@@ -1,0 +1,7 @@
+Program,Time Slot,Original Rating,Modified Rating
+news,Hour 8,0.4,0.6
+live_soccer,Hour 20,0.4,0.8
+movie_a,Hour 21,0.5,0.7
+reality_show,Hour 15,0.4,0.6
+documentary,Hour 11,0.2,0.4
+Boxing,Hour 23,0.6,0.8
