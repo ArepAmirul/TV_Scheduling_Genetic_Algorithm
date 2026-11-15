@@ -94,3 +94,6 @@ def csv_bytes(df):
 
 st.set_page_config(page_title="TV Scheduling | Genetic Algorithm", page_icon="📺", layout="wide")
 st.title("📺 TV Scheduling Using Genetic Algorithm")
+
+
+st.caption("Model assumption: a program can repeat across slots; no program duration or broadcasting constraints are enforced.")
