@@ -1,2 +1,4 @@
-streamlit>=1.35,<2
-pandas>=2.0,<3
+
+TV-Scheduling-Genetic-Algorithm/
+├── app.py
+└── requirements.txt
